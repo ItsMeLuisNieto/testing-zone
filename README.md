@@ -1,2 +1,2 @@
-# testing-zone
-Mi zona de prueba
+# Esta es la testing zone...
+Para mi una zona de prueba es un excelente lugar para investigar algo nuevo, capaz las cosas salgan bien, capas no... Bueno, eso ya se verá por el camino. Este es un primer repositorio para ver qué cosas hacer mientras ando aburrido, puede que eso pase muy seguido, no me culpen.
