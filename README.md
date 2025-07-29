@@ -1,2 +1,2 @@
-# testing-zone
-Mi zona de prueba
+# Esta es mi zona de prueba
+Aquí realizaré algunos que otros proyectos mientras esté aburrido...
